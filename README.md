@@ -2,7 +2,7 @@
 
 ## Objective
 
-This repository is dedicated for tutorials on python scientific computing ecosystem libraries: Numpy, Scipy, Matplotlib and Sumpy.
+This repository is dedicated for tutorials on python scientific computing ecosystem libraries: Numpy, Scipy, Matplotlib and Sumpy. It can be use by physicists, engineers and mathematicians.
 
 ### Packages
 
